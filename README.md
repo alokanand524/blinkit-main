@@ -1,7 +1,7 @@
 # blinkit Clone
 Blinkit (formerly Grofers) is an Indian instant delivery service. Customers of the company use a mobile application to order groceries and essentials online.
 
-Cloning Blinkit was our project for Unit-3 Construct week at Masai School. Our main objective was to complete all main functionality of this e-commerce website , such as sing up to till to the buying of a product. 
+ Our main objective was to complete all main functionality of this e-commerce website , such as sing up to till to the buying of a product. 
 We have completed this project in 5 days.
 
 - [Click here](https://blink-it-by-arshad-gaurav-ayush-rohit-shubham.netlify.app/) to preview our project.
@@ -68,29 +68,6 @@ We have completed this project in 5 days.
 - Live previews
 - Fullscreen mode
 - Media query for All Devices
-
-## 🔗 Links
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-arshad-khan-350206154)
-
-
-[MD Arshad Khan](https://www.linkedin.com/in/md-arshad-khan-350206154), 
-[Shubham Pawar](linkedin.com/in/shubham-pawar-2b7a30124), 
-[Rohit Kumar Gupta](https://www.linkedin.com/in/rohit-gupta-06a445181/), 
-[Gaurav kumar](https://www.linkedin.com/in/rohit-sahu-3a0406179), 
-[Ayush Anshu](https://www.linkedin.com/in/ayush-anshu-631ba8189/)
-
-## Authors
-Click the name to visit their Github Profile
-- [MD Arshad Khan](https://github.com/mdarshadkhan1998)
-- [Shubham Pawar](https://github.com/Shubh-Pawar007)
-- [Rohit Kumar Gupta](https://github.com/rg15697)
-- [Gaurav kumar](https://github.com/gauravkrs)
-- [Ayush Anshu](https://github.com/ayushanshu001)
-
-## Support
-
-For support, email - mdarshadkhan1998@gmail.com, shubhampawar242767@gmail.com ,rg15697@gmail.com
 
 ## FAQ
 
